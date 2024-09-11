@@ -1,5 +1,7 @@
 # Google Maps Location App
 
+![google-maps-screenshot](<google-maps-location-app/src/assets/Screenshot 2024-09-11 at 4.33.45 PM.png>)
+
 This project is a React-based application that allows users to:
 - Search for and pin multiple locations on a Google Map.
 - Capture and save a map screenshot with all pinned locations using the Google Maps Static API.
